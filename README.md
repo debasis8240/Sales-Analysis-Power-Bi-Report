@@ -1,36 +1,37 @@
-# Sales-Analysis-Power-Bi-Report
+# 📊 Sales Analysis Dashboard | Power BI
 
-# 📊 YouTube Comments Sentiment Analysis Dashboard | Power BI
-
-A comprehensive **Power BI dashboard** designed to analyze YouTube comments, audience engagement, and sentiment trends. This project transforms raw YouTube comment data into interactive visualizations, helping content creators and analysts understand viewer behavior, engagement patterns, and public sentiment.
+A comprehensive **Sales Analytics Dashboard** developed using **Power BI** to monitor business performance, analyze sales trends, track profitability, evaluate customer behavior, and support data-driven decision-making. This dashboard transforms raw sales data into interactive visualizations, enabling businesses to identify growth opportunities and optimize sales strategies.
 
 ---
 
 # 📌 Project Overview
 
-This interactive dashboard provides insights into YouTube audience engagement by analyzing comments, likes, replies, and sentiment distribution. It enables users to identify audience opinions, measure engagement, and uncover trends using interactive Power BI visualizations.
+This project provides an interactive Sales Dashboard that helps stakeholders monitor key sales metrics, customer purchasing behavior, regional performance, and product profitability. The dashboard delivers real-time business insights through dynamic reports and visualizations.
 
 The dashboard includes analysis of:
 
-- 😊 Sentiment Distribution
-- 💬 Comment Analysis
-- 👍 Likes & Replies Analysis
-- 📈 Engagement Metrics
-- 🎥 Video-wise Performance
-- 📊 Interactive Filters & KPIs
+- 📈 Sales Performance
+- 💰 Profit Analysis
+- 📦 Product Performance
+- 👥 Customer Analysis
+- 🌍 Regional Sales Analysis
+- 🛒 Category & Sub-Category Analysis
+- 📅 Monthly & Yearly Sales Trends
+- 🎯 Business KPIs
 
 ---
 
 # 🚀 Project Objectives
 
-This project aims to answer key business questions such as:
+This project aims to answer important business questions such as:
 
-- What percentage of comments are Positive, Negative, and Neutral?
-- Which videos receive the highest engagement?
-- Which comments receive the most likes?
-- How active are viewers in replying to comments?
-- Which videos generate the highest audience interaction?
-- What are the overall engagement trends?
+- What are the total sales and total profit?
+- Which products generate the highest revenue?
+- Which regions contribute the most sales?
+- Which categories and sub-categories perform best?
+- How do monthly and yearly sales trends change over time?
+- Which customers generate the highest revenue?
+- What are the key factors affecting profitability?
 
 ---
 
@@ -47,62 +48,88 @@ This project aims to answer key business questions such as:
 
 # 📂 Dataset Information
 
-The dataset contains YouTube comment data collected from multiple videos.
+The dataset contains historical sales transactions with information such as:
 
-### Dataset Features
-
-- Video ID
-- Comment Text
-- Likes
-- Replies
+- Order ID
+- Order Date
+- Customer Name
+- Product Name
+- Category
+- Sub-Category
+- Region
+- Sales
+- Quantity
+- Profit
+- Discount
+- Shipping Mode
 
 ---
 
 # 📊 Dashboard Features
 
-### 🔹 Executive KPIs
+### 🔹 Executive KPI Cards
 
 Provides a quick overview of:
 
-- Total Comments
-- Total Likes
-- Total Replies
-- Average Likes per Comment
-- Average Replies per Comment
+- Total Sales
+- Total Profit
+- Total Orders
+- Total Customers
+- Average Sales
+- Profit Margin
 
 ---
 
-### 🔹 Sentiment Analysis
+### 🔹 Sales Trend Analysis
 
 Analyzes:
 
-- Positive Comments
-- Neutral Comments
-- Negative Comments
-
-Helping understand audience opinion.
-
----
-
-### 🔹 Engagement Analysis
-
-Measures:
-
-- Most Liked Comments
-- Reply Distribution
-- Engagement by Video
-- Audience Interaction
+- Monthly Sales
+- Yearly Sales
+- Revenue Growth
+- Sales Performance Over Time
 
 ---
 
-### 🔹 Video Performance
+### 🔹 Regional Performance
 
 Visualizes:
 
-- Comments by Video
-- Likes by Video
-- Replies by Video
-- Overall Engagement
+- Sales by Region
+- Profit by Region
+- Top Performing Regions
+
+---
+
+### 🔹 Product Analysis
+
+Tracks:
+
+- Top Selling Products
+- Best Performing Categories
+- Sub-Category Performance
+- Quantity Sold
+
+---
+
+### 🔹 Customer Analysis
+
+Provides insights into:
+
+- Top Customers
+- Customer Contribution
+- Customer Purchase Trends
+
+---
+
+### 🔹 Profit Analysis
+
+Measures:
+
+- Profit by Category
+- Profit Margin
+- Loss Making Products
+- High Profit Products
 
 ---
 
@@ -110,10 +137,11 @@ Visualizes:
 
 Includes:
 
-- Dynamic Filters
 - KPI Cards
-- Interactive Charts
-- Drill-down Analysis
+- Slicers
+- Filters
+- Drill-through Reports
+- Dynamic Visualizations
 
 ---
 
@@ -121,37 +149,40 @@ Includes:
 
 ### 🔹 1. Data Collection
 
-- Imported YouTube comments dataset.
-- Loaded CSV into Power BI.
+- Imported sales dataset into Power BI.
+- Connected data source.
+- Loaded transaction records.
 
 ### 🔹 2. Data Cleaning
 
 - Removed duplicate records.
 - Handled missing values.
-- Standardized text fields.
 - Corrected data types.
+- Standardized categorical values.
 
 ### 🔹 3. Data Transformation
 
 - Applied Power Query transformations.
 - Created calculated columns.
-- Built relationships where required.
+- Built relationships between tables.
 
 ### 🔹 4. Data Modeling
 
-- Created DAX measures.
-- Optimized the data model.
+- Designed an optimized data model.
+- Created DAX Measures.
 - Built reusable calculations.
 
 ### 🔹 5. Dashboard Development
 
-Designed interactive visualizations including:
+Developed interactive reports using:
 
 - KPI Cards
 - Bar Charts
+- Column Charts
 - Pie Charts
 - Donut Charts
 - Line Charts
+- Maps
 - Tables
 - Slicers
 - Dynamic Filters
@@ -160,79 +191,95 @@ Designed interactive visualizations including:
 
 # 📈 Key Insights
 
-### 😊 Audience Sentiment
+### 📊 Sales Performance
 
-- Identifies the distribution of Positive, Neutral, and Negative comments.
-- Helps measure audience perception.
+- Sales trends reveal seasonal business patterns.
+- Revenue growth can be tracked over different periods.
 
-### 👍 Engagement Insights
+### 💰 Profitability
 
-- Highly liked comments indicate audience interest.
-- Reply counts reflect viewer interaction.
+- Some products generate high sales but lower profits.
+- Profit analysis helps identify profitable product segments.
 
-### 🎥 Video Performance
+### 🌍 Regional Analysis
 
-- Compares engagement across videos.
-- Highlights videos generating maximum audience participation.
+- Regional comparisons highlight top-performing markets.
+- Supports better resource allocation.
 
-### 💬 Comment Analysis
+### 📦 Product Insights
 
-- Tracks overall comment activity.
-- Helps identify highly engaging content.
+- Best-selling products contribute significantly to revenue.
+- Product performance assists inventory planning.
+
+### 👥 Customer Analysis
+
+- High-value customers contribute a major share of sales.
+- Customer insights support targeted marketing strategies.
 
 ---
 
 # 📷 Dashboard Preview
 
-> Add your Power BI dashboard screenshot inside the **Images** folder.
+> Add your dashboard screenshot inside the **Images** folder.
 
 <p align="center">
-<img src="Images/Dashboard.png" width="100%">
+<img src="Images/Dashboard1.png" width="100%">
+  <img src="Images/Dashboard2.png" width="100%">
 </p>
+
+---
+
+## 📥 Download Power BI Dashboard
+
+Click below to download the Power BI report.
+
+[![Download PBIX](https://img.shields.io/badge/Download-Power%20BI%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](Dashboard/Sales-Analysis-Report.pbix)
 
 ---
 
 # 📊 Visualizations Included
 
 - KPI Cards
-- Sentiment Distribution
-- Comment Analysis
-- Likes Analysis
-- Replies Analysis
-- Video-wise Performance
-- Interactive Slicers
-- Dynamic Filters
+- Sales Trend Charts
+- Profit Analysis
+- Category Performance
+- Regional Sales Maps
+- Product Analysis
+- Customer Analysis
+- Interactive Filters & Slicers
 
 ---
 
 # 🎯 Business Recommendations
 
-### 📌 Improve Audience Engagement
+### 📌 Improve Sales Performance
 
-- Encourage viewers to interact through comments and replies.
-- Respond to highly engaged discussions.
+- Focus on high-performing products and regions.
+- Increase sales in underperforming markets.
 
-### 📌 Content Optimization
+### 📌 Optimize Profitability
 
-- Analyze sentiment trends to understand audience preferences.
-- Create content similar to high-performing videos.
+- Reduce discounts on highly profitable products.
+- Review pricing strategies for low-margin items.
 
-### 📌 Community Management
+### 📌 Customer Retention
 
-- Monitor negative feedback.
-- Increase engagement with active users.
+- Identify loyal customers.
+- Launch personalized marketing campaigns.
 
-### 📌 Performance Monitoring
+### 📌 Inventory Planning
 
-- Track engagement metrics regularly.
-- Measure content performance over time.
+- Maintain stock for fast-moving products.
+- Monitor low-performing inventory.
 
 ---
 
 # 🏁 Conclusion
 
-This project demonstrates how **Power BI** can be used to analyze YouTube comments and audience engagement through interactive dashboards. By combining sentiment analysis, engagement metrics, and visual storytelling, the dashboard helps content creators and analysts make data-driven decisions to improve audience interaction and content performance.
+This **Sales Analysis Dashboard** demonstrates how **Power BI** can transform raw sales data into meaningful business insights through interactive reporting and visualization. The dashboard enables organizations to monitor sales performance, evaluate profitability, understand customer behavior, and optimize business strategies.
+
+By leveraging **Power BI**, **Power Query**, **DAX**, and data modeling techniques, this project provides a scalable and efficient solution for sales reporting and business intelligence.
 
 ---
 
-### ⭐ If you found this project helpful, don't forget to give it a Star on GitHub!
+### ⭐ If you found this project helpful, don't forget to give it a Star ⭐ on GitHub!
