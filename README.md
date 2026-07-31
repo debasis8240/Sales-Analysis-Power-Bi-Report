@@ -220,12 +220,9 @@ Developed interactive reports using:
 
 # 📷 Dashboard Preview
 
-> Add your dashboard screenshot inside the **Images** folder.
+<img width="1326" height="743" alt="Dashboard1" src="https://github.com/user-attachments/assets/be60433f-7280-4351-a3d3-f621f28354e4" />
 
-<p align="center">
-<img src="Images/Dashboard1.png" width="100%">
-  <img src="Images/Dashboard2.png" width="100%">
-</p>
+<img width="1323" height="742" alt="Dashboard2" src="https://github.com/user-attachments/assets/c0eeb156-2689-45e2-be58-c35769c92f8e" />
 
 ---
 
