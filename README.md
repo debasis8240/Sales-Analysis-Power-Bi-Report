@@ -230,7 +230,7 @@ Developed interactive reports using:
 
 Click below to download the Power BI report.
 
-[![Download PBIX](https://img.shields.io/badge/Download-Power%20BI%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](Dashboard/Sales-Analysis-Report.pbix)
+[![Download PBIX](https://img.shields.io/badge/Download-Power%20BI%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](Dashboard/Sales%20Analysis%20Report.pbix)
 
 ---
 
