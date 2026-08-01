@@ -220,11 +220,32 @@ Developed interactive reports using:
 
 # 📷 Dashboard Preview
 
-<img width="1326" height="743" alt="Dashboard1" src="https://github.com/user-attachments/assets/be60433f-7280-4351-a3d3-f621f28354e4" />
-
-<img width="1323" height="742" alt="Dashboard2" src="https://github.com/user-attachments/assets/c0eeb156-2689-45e2-be58-c35769c92f8e" />
+<img width="1110" height="622" alt="1" src="https://github.com/user-attachments/assets/a493d81a-1e56-4ccb-845f-3c42752f223b" />
 
 ---
+
+<img width="1107" height="627" alt="2" src="https://github.com/user-attachments/assets/57b782f7-19a1-4cc7-95ec-a4e5ffa4826b" />
+
+---
+
+<img width="1105" height="630" alt="3" src="https://github.com/user-attachments/assets/5624a9a9-2465-4f09-a7e6-ebec91a1b353" />
+
+---
+
+<img width="1108" height="622" alt="4" src="https://github.com/user-attachments/assets/8a4fba6a-55e9-4152-88b0-1659d78e2855" />
+
+---
+
+<img width="1110" height="623" alt="5" src="https://github.com/user-attachments/assets/d112a38e-c8c9-433f-b412-4ec634553552" />
+
+----
+
+<img width="1106" height="625" alt="6" src="https://github.com/user-attachments/assets/f98f82f5-095d-4008-a28d-d6a22f527952" />
+
+---
+
+<img width="1105" height="622" alt="7" src="https://github.com/user-attachments/assets/18bfd1fa-b8d2-464b-b256-9bd249b284aa" />
+
 
 ## 📥 Download Power BI Dashboard
 
